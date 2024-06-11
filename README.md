@@ -58,3 +58,31 @@ npm run start
 ```
 
 - Open your web browser and visit http://localhost:3000 to view the application.
+
+<h3> Usage </h3>
+
+- Ensure MetaMask is installed in your web browser.
+- Connect MetaMask to the Ganache local blockchain by adding a custom RPC network with the Ganache RPC server address.
+- Import one of the Ganache accounts into MetaMask using the private key.
+- Open the application and participate in the voting process.
+
+<h3> Smart Contract Details </h3>
+- Voting.sol: Solidity smart contract that manages the voting process.
+- Migration.sol: Solidity contract used by Truffle for migrations.
+
+<h3> Screenshots </h3>
+
+<h3> Contributing </h3>
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+- Fork the repository.
+- Create a new branch (git checkout -b feature/new-feature).
+- Make your changes.
+- Commit your changes (git commit -am 'Add new feature').
+- Push to the branch (git push origin feature/new-feature).
+- Create a new Pull Request.
+  
+<h3> License </h3>
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
