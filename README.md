@@ -67,6 +67,7 @@ npm run start
 - Open the application and participate in the voting process.
 
 <h3> Smart Contract Details </h3>
+
 - Voting.sol: Solidity smart contract that manages the voting process.
 - Migration.sol: Solidity contract used by Truffle for migrations.
 
