@@ -8,3 +8,14 @@ This project is a decentralized voting application built using the Ethereum bloc
 - MetaMask Integration: Users can connect their MetaMask wallets to participate in voting.
 - Truffle Framework: Develop, test, and deploy smart contracts.
 - Ganache: Local blockchain for development and testing.
+
+<h3> Technologies Used </h3>
+
+- Ethereum: Blockchain platform for decentralized applications.
+- Solidity: Programming language for writing smart contracts.
+- Truffle: Development framework for Ethereum.
+- Ganache: Personal Ethereum blockchain for development.
+- Web3.js: JavaScript library for interacting with the Ethereum blockchain.
+- MetaMask: Browser extension for interacting with Ethereum.
+- Bootstrap: CSS framework for responsive and mobile-first web development.
+- JavaScript/HTML/CSS: Frontend technologies for building the user interface.
