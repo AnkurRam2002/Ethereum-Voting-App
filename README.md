@@ -19,3 +19,42 @@ This project is a decentralized voting application built using the Ethereum bloc
 - MetaMask: Browser extension for interacting with Ethereum.
 - Bootstrap: CSS framework for responsive and mobile-first web development.
 - JavaScript/HTML/CSS: Frontend technologies for building the user interface.
+
+<h3> Installation </h3>
+
+- Clone the repository:
+```bash
+git clone https://github.com/your-username/ethereum-voting-app.git
+```
+
+- Navigate to the project directory:
+```bash
+cd ethereum-voting-app
+```
+
+- Install Truffle globally if you haven't already:
+```bash
+npm install -g truffle
+```
+
+- Install dependencies:
+```bash
+npm install
+```
+
+- Start Ganache:
+  - Open Ganache and create a new workspace.
+  - Copy the RPC server address (usually http://127.0.0.1:7545).
+
+- Compile and migrate the smart contracts:
+```bash
+truffle compile
+truffle migrate
+```
+
+- Start the development server:
+```bash
+npm run start
+```
+
+- Open your web browser and visit http://localhost:3000 to view the application.
